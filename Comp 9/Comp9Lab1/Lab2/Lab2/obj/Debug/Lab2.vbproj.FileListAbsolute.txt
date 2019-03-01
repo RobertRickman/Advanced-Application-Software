@@ -1,0 +1,12 @@
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\bin\Debug\Lab2.exe.config
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\bin\Debug\Lab2.exe
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\bin\Debug\Lab2.pdb
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\bin\Debug\Lab2.xml
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\obj\Debug\Lab2.vbprojAssemblyReference.cache
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\obj\Debug\Lab2.Resources.resources
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.cache
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\obj\Debug\Lab2.vbproj.CoreCompileInputs.cache
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\obj\Debug\Lab2.exe
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\obj\Debug\Lab2.xml
+I:\Comp 9\Comp9Lab1\Lab2\Lab2\obj\Debug\Lab2.pdb
